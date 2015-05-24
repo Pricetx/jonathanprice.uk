@@ -11,29 +11,28 @@ include '../header.php';
               <p class="light grey-text text-darken-4 intro-paragraph">
                 The best way to get in touch with me is by using the form below.
               </p>
+            </div>
 
-            <form class="col s12" action="submit">
-              <div class="row">
-                <div class="input-field col s12">
-                  <input id="email" type="email" class="validate">
-                  <label for="email">Email Address</label>
+              <form class="col s12" action="submit.php" method="post">
+                <div class="row">
+                  <div class="input-field col s12">
+                    <input name="email" id="email" type="email" class="validate">
+                    <label for="email">Email Address</label>
+                  </div>
                 </div>
-              </div>
 
-              <div class="row">
-                <div class="input-field col s12">
-                  <textarea id="message" class="materialize-textarea"></textarea>
-                  <label for="message">Message</label>
+                <div class="row">
+                  <div class="input-field col s12">
+                    <textarea name="message" id="message" class="materialize-textarea"></textarea>
+                    <label for="message">Message</label>
+                  </div>
                 </div>
-              </div>
 
-              <button class="btn waves-effect waves-light" type="submit" name="action">Submit
-                <i class="mdi-content-send right"></i>
-              </button>
+                <button class="btn waves-effect waves-light" type="submit" name="action">Submit<i class="mdi-content-send right"></i></button>
+              </form>
 
-            </form>
+            </div>
 
-          </div>
         </div>
       </div>
 

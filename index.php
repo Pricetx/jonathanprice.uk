@@ -30,8 +30,8 @@ include 'header.php';
 
         <div class="col s12 m4">
           <div class="icon-block">
-            <h2 class="center"><i class="mdi-hardware-desktop-windows"></i></h2>
-            <h5 class="center">Computing</h5>
+            <h2 class="center"><a href="/computing" class="blue-grey-text text-darken-4"><i class="mdi-hardware-desktop-windows"></i></h2>
+            <h5 class="center"><a href="/computing" class="blue-grey-text text-darken-4">Computing</h5>
 
             <p class="light">I have built a career in computing. I have a broad knowledge of the field, with a specialisation in computer networking. In this section you can find projects I have developed and articles I have written.</p>
           </div>

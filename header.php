@@ -21,7 +21,7 @@
             <ul class="right hide-on-med-and-down">
               <li id="homeLink"><a href="/" class="blue-grey-text text-darken-4">Home</a></li>
               <li id="musicLink"><a href="/music" class="blue-grey-text text-darken-4">Music</a></li>
-              <li id="computingLink"><a href="#" class="blue-grey-text text-darken-4">Computing</a></li>
+              <li id="computingLink"><a href="/computing" class="blue-grey-text text-darken-4">Computing</a></li>
               <li id="aboutLink"><a href="/about" class="blue-grey-text text-darken-4">About Me</a></li>
               <li id="contactLink"><a href="/contact" class="blue-grey-text text-darken-4">Contact</a></li>
             </ul>
@@ -30,7 +30,7 @@
               <div id="nav-mobile-header"><div class="container"><p class="black-text">Menu</div></div>
               <li id="homeLinkMob" class="blue-grey-text text-darken-4"><a href="/"><i class="tiny mdi-action-home left blue-grey-text text-darken-4"></i>Home</a></li>
               <li id="musicLinkMob" class="blue-grey-text text-darken-4"><a href="/music"><i class="tiny mdi-av-web left 1  blue-grey-text text-darken-4"></i>Music</a></li>
-              <li id="computingLinkMob" class="blue-grey-text text-darken-4"><a href="#"><i class="tiny mdi-action-speaker-notes left blue-grey-text text-darken-4"></i>Computing</a></li>
+              <li id="computingLinkMob" class="blue-grey-text text-darken-4"><a href="/computing"><i class="tiny mdi-action-speaker-notes left blue-grey-text text-darken-4"></i>Computing</a></li>
               <li id="aboutLinkMob" class="blue-grey-text text-darken-4"><a href="/about"><i class="tiny mdi-social-person left blue-grey-text text-darken-4"></i>About Me</a></li>
               <li id="contactLinkMob" class="blue-grey-text text-darken-4"><a href="/contact"><i class="tiny mdi-communication-email left blue-grey-text text-darken-4"></i>Contact</a></li>
             </ul>
