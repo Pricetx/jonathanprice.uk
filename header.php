@@ -14,6 +14,8 @@
 
     <body>
 
+      <?php include_once("analyticstracking.php"); ?>
+
       <div class="navbar-fixed">
         <nav class="white lighten-1" role="navigation">
           <div class="nav-wrapper container">

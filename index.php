@@ -1,6 +1,4 @@
-<?php
-include 'header.php';
-?>
+<?php include_once("header.php"); ?>
 
       <div class="section no-pad-bot white lighten-2 z-depth-1" id="index-banner">
 
@@ -50,6 +48,4 @@ include 'header.php';
           </div>
         </div>
 
-<?php
-include 'footer.php';
-?>
+<?php include_once("footer.php"); ?>

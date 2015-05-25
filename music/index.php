@@ -1,6 +1,4 @@
-<?php
-include '../header.php';
-?>
+<?php include_once("../header.php"); ?>
 
       <div id="contentArea">
         <div class="container" id="contentContainer">
@@ -23,6 +21,4 @@ include '../header.php';
         </div>
     </div>
 
-<?php
-include '../footer.php';
-?>
+<?php include_once("../footer.php"); ?>
