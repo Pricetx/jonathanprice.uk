@@ -1,7 +1,7 @@
       <footer class="page-footer">
         <div class="footer-copyright grey darken-3">
           <div class="container">
-            © 2015 Jonathan Price | Website source available on <a class="white-text" href="https://github.com/pricetx/">GitHub</a>
+            © 2015 Jonathan Price | Website source available on <a class="white-text" href="https://github.com/Pricetx/jonathanprice.uk">GitHub</a>
           </div>
         </div>
       </footer>
