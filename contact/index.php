@@ -13,14 +13,16 @@
 
               <form class="col s12" action="submit.php" method="post">
                 <div class="row">
-                  <div class="input-field col s12">
+                  <div class="input-field col s12 m6 l4">
+                    <i class="mdi-communication-email prefix"></i>
                     <input name="email" id="email" type="email" class="validate">
                     <label for="email">Email Address</label>
                   </div>
                 </div>
 
                 <div class="row">
-                  <div class="input-field col s12">
+                  <div class="input-field col s12 m12 l12">
+                    <i class="mdi-content-create prefix"></i>
                     <textarea name="message" id="message" class="materialize-textarea"></textarea>
                     <label for="message">Message</label>
                   </div>
