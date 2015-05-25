@@ -29,8 +29,8 @@
             <ul id="nav-mobile" class="side-nav white z-depth-5">
               <div id="nav-mobile-header"><div class="container"><p class="black-text">Menu</div></div>
               <li id="homeLinkMob" class="blue-grey-text text-darken-4"><a href="/"><i class="tiny mdi-action-home left blue-grey-text text-darken-4"></i>Home</a></li>
-              <li id="musicLinkMob" class="blue-grey-text text-darken-4"><a href="/music"><i class="tiny mdi-av-web left 1  blue-grey-text text-darken-4"></i>Music</a></li>
-              <li id="computingLinkMob" class="blue-grey-text text-darken-4"><a href="/computing"><i class="tiny mdi-action-speaker-notes left blue-grey-text text-darken-4"></i>Computing</a></li>
+              <li id="musicLinkMob" class="blue-grey-text text-darken-4"><a href="/music"><i class="tiny mdi-av-volume-up left 1  blue-grey-text text-darken-4"></i>Music</a></li>
+              <li id="computingLinkMob" class="blue-grey-text text-darken-4"><a href="/computing"><i class="tiny mdi-hardware-desktop-windows left blue-grey-text text-darken-4"></i>Computing</a></li>
               <li id="aboutLinkMob" class="blue-grey-text text-darken-4"><a href="/about"><i class="tiny mdi-social-person left blue-grey-text text-darken-4"></i>About Me</a></li>
               <li id="contactLinkMob" class="blue-grey-text text-darken-4"><a href="/contact"><i class="tiny mdi-communication-email left blue-grey-text text-darken-4"></i>Contact</a></li>
             </ul>
