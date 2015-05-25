@@ -40,7 +40,7 @@
                   <h2 class="center"><a href="/about" class="blue-grey-text text-darken-4"><i class="mdi-social-person"></i></a></h2>
                   <h5 class="center"><a href="/about" class="blue-grey-text text-darken-4">About Me</a></h5>
 
-                  <p class="light">Insert something clever here</p>
+                  <p class="light">To learn more about me, please visit this section. To contact me, please press the contact button.</p>
                 </div>
               </div>
 
