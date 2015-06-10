@@ -22,7 +22,7 @@
                   <h2 class="center"><a href="/music" class="blue-grey-text text-darken-4"><i class="mdi-av-volume-up"></i></a></h2>
                   <h5 class="center"><a href="/music" class="blue-grey-text text-darken-4">Music</a></h5>
 
-                  <p class="light">A pianist of many styles. I have a deep interest in music and have learnt various styles. Jazz, Classical, Rock. From time to time I record audio/video and post it here. I'm also available for hire.</p>
+                  <p class="light">A pianist of many styles. I have a deep interest in music and have learnt various styles including Jazz, Classical and Rock. From time to time I record audio/video and post it here. I'm also available for hire.</p>
                 </div>
               </div>
 
