@@ -19,28 +19,28 @@
             <div class="row">
               <div class="col s12 m4">
                 <div class="icon-block">
-                  <h2 class="center"><a href="/music" class="blue-grey-text text-darken-4"><i class="mdi-av-volume-up"></i></a></h2>
-                  <h5 class="center"><a href="/music" class="blue-grey-text text-darken-4">Music</a></h5>
+                  <h2 class="center"><a href="/music" class="blue-grey-text text-darken-4"><i class="mdi-av-volume-up"></i></h2>
+                  <h5 class="center">Music</h5>
 
-                  <p class="light">A pianist of many styles. I have a deep interest in music and have learnt various styles including Jazz, Classical and Rock. From time to time I record audio/video and post it here. I'm also available for hire.</p>
+                  <p class="light">A pianist of many styles. I have a deep interest in music and have learnt various styles including Jazz, Classical and Rock. From time to time I record audio/video and post it here. I'm also available for hire.</p></a>
                 </div>
               </div>
 
               <div class="col s12 m4">
                 <div class="icon-block">
                   <h2 class="center"><a href="/computing" class="blue-grey-text text-darken-4"><i class="mdi-hardware-desktop-windows"></i></h2>
-                  <h5 class="center"><a href="/computing" class="blue-grey-text text-darken-4">Computing</h5>
+                  <h5 class="center">Computing</h5>
 
-                  <p class="light">I have built a career in computing. I have a broad knowledge of the field, with a specialisation in computer networking. In this section you can find projects I have developed and articles I have written.</p>
+                  <p class="light">I have built a career in computing. I have a broad knowledge of the field, with a specialisation in computer networking. In this section you can find projects I have developed and articles I have written.</p></a>
                 </div>
               </div>
 
               <div class="col s12 m4">
                 <div class="icon-block">
-                  <h2 class="center"><a href="/about" class="blue-grey-text text-darken-4"><i class="mdi-social-person"></i></a></h2>
-                  <h5 class="center"><a href="/about" class="blue-grey-text text-darken-4">About Me</a></h5>
+                  <h2 class="center"><a href="/about" class="blue-grey-text text-darken-4"><i class="mdi-social-person"></i></h2>
+                  <h5 class="center">About Me</h5>
 
-                  <p class="light">To learn more about me, please visit this section. To contact me, please press the contact button.</p>
+                  <p class="light">To learn more about me, please visit this section. To contact me, please press the contact button.</p></a>
                 </div>
               </div>
 
