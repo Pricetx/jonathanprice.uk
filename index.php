@@ -1,6 +1,6 @@
 <?php include_once("header.php"); ?>
 
-      <div class="section no-pad-bot white lighten-2 z-depth-1" id="index-banner">
+      <div class="section no-pad-bot white lighten-2" id="index-banner">
 
         <div class="section no-pad-bot" id="index-banner">
           <div class="container">
@@ -47,5 +47,5 @@
             </div>
           </div>
         </div>
-
+      </div>
 <?php include_once("footer.php"); ?>
