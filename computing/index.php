@@ -6,7 +6,7 @@
 
             <div class="col s12 m8 l9">
               <h1 class="light grey-text text-darken-4 header">Computing</h1>
-              <h2 class="light grey-text text-darken-4 header">FreeBSD</h2>
+              <h3 class="light grey-text text-darken-4 header">FreeBSD</h2>
               <p class="light grey-text text-darken-4">    
                 What is FreeBSD? To quote the official <a href="http://www.freebsd.org/">site</a>, "FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded platforms."
               </p>
@@ -44,7 +44,7 @@
                 </ul>
               </p>
 
-              <h2 class="light grey-text text-darken-4 header">Networking</h2>
+              <h3 class="light grey-text text-darken-4 header">Networking</h2>
 
               <p class="light grey-text text-darken-4">
                 Networking is my primary area of expertise within the field of computing. I am currently working towards
@@ -58,7 +58,7 @@
                 layer 2 loop protection.
               </p>
 
-              <h2 class="light grey-text text-darken-4 header">Programming</h2>
+              <h3 class="light grey-text text-darken-4 header">Programming</h2>
 
               <p class="light grey-text text-darken-4">
                 Whilst I would not consider myself a software developer, I make effective use of my programming ability in my

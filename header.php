@@ -4,9 +4,12 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>Jonathan Price</title>
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css"
-    media="screen,projection"/>
+
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css" media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="/css/style.css">
+
+    <script src="/js/master.js"></script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   </head>
 
@@ -39,7 +42,7 @@
             <ul id="nav-mobile" class="side-nav white z-depth-5">
               <div id="nav-mobile-header">
                 <div class="container">
-                  <p class="black-text">Menu</p>
+                  <p class="blue-grey-text text-darken-4 ">Jonathan Price</p>
                 </div>
               <li id="homeLinkMob" class="blue-grey-text text-darken-4">
                 <a href="/"><i class="tiny mdi-action-home left blue-grey-text text-darken-4"></i>Home</a>
@@ -61,3 +64,7 @@
           </div>
         </nav>
       </div>
+
+      <script>
+        setSelectedPage();
+      </script>
