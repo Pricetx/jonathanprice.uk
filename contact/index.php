@@ -35,6 +35,7 @@
                   of my key by visiting my <a href="http://keybase.io/pricetx">KeyBase</a> profile. If you feel it
                   necessary to send me sensitive information by email, please send me a preliminary email containing
                   your public key, and then encrypt the following email with your private key and my public key.
+                  You may use any email address associated with my PGP key.
                 </p>
               </form>
 
