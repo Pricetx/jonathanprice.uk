@@ -5,6 +5,18 @@
         <div class="footer-copyright grey darken-3">
           <div class="container">© 2015 Jonathan Price | Website source available on
             <a class="white-text" href="https://github.com/Pricetx/jonathanprice.uk">GitHub</a>
+            <div style="float:right;height:100%;">
+              <a class="social-icon-anchor" href="https://keybase.io/pricetx"><i class="social-icon mdi-communication-vpn-key white-text" style="font-size:20px;"></i></a>
+            </div>
+            <div style="float:right;height:100%;margin-right:8px;">
+              <a class="social-icon-anchor" href="https://uk.linkedin.com/in/jonathanpriceuk"><i class="social-icon fa fa-linkedin fa-lg white-text" style="font-size:20px;"></i></a>
+            </div>
+            <div style="float:right;height:100%;margin-right:10px;">
+              <a class="social-icon-anchor" href="https://github.com/pricetx"><i class="social-icon fa fa-github fa-lg white-text"></i></a>
+            </div>
+            <div style="float:right;height:100%;margin-right:8px;">
+              <a class="social-icon-anchor" href="/contact/"><i class="social-icon mdi-communication-email white-text" style="font-size:20px;"></i></a>
+            </div>
           </div>
         </div>
       </footer>

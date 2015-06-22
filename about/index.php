@@ -9,7 +9,7 @@
               <p class="light grey-text text-darken-4 intro-paragraph">
                 I am a Systems Administrator, currently located in Hertfordshire, England.<br/><br/>
 
-                For further information, please visit my <a href="http://linkedin.com/in/JonathanPriceOrg">LinkedIn</a>
+                For further information, please visit my <a href="http://linkedin.com/in/JonathanPriceUK">LinkedIn</a>
               </p>
             </div>
 

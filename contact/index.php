@@ -29,6 +29,13 @@
                 </div>
 
                 <button class="btn waves-effect waves-light" type="submit" name="action">Submit<i class="mdi-content-send right"></i></button>
+
+                <p class="light grey-text text-darken-4">
+                  I endeavour to sign any personal correspondance with my PGP key. You can verify the legitimacy
+                  of my key by visiting my <a href="http://keybase.io/pricetx">KeyBase</a> profile. If you feel it
+                  necessary to send me sensitive information by email, please send me a preliminary email containing
+                  your public key, and then encrypt the following email with your private key and my public key.
+                </p>
               </form>
 
             </div>
