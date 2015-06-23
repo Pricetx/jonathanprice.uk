@@ -3,8 +3,7 @@
     <div class="footer">
       <footer class="page-footer">
         <div class="footer-copyright grey darken-3">
-          <div class="container">© 2015 Jonathan Price | Website source available on
-            <a class="white-text" href="https://github.com/Pricetx/jonathanprice.uk">GitHub</a>
+          <div class="container">© 2015 Jonathan Price
             <div style="float:right;height:100%;">
               <a class="social-icon-anchor" href="https://keybase.io/pricetx"><i class="social-icon mdi-communication-vpn-key white-text" style="font-size:20px;"></i></a>
             </div>
