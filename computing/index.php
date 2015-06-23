@@ -8,7 +8,7 @@
               <h1 class="light grey-text text-darken-4 header">Computing</h1>
               <h3 class="light grey-text text-darken-4 header">FreeBSD</h2>
               <p class="light grey-text text-darken-4">    
-                What is FreeBSD? To quote the official <a href="http://www.freebsd.org/">site</a>, "FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded platforms."
+                What is FreeBSD? To quote the official <a href="http://www.freebsd.org/">site</a>, "<i>FreeBSD is an advanced computer operating system used to power modern servers, desktops and embedded platforms.</i>"
               </p>
                 
               <p class="light grey-text text-darken-4">
@@ -40,7 +40,7 @@
                   <li><i class="mdi-navigation-chevron-right"></i>Monitoring software (nagios)</li>
                   <li><i class="mdi-navigation-chevron-right"></i>File storage (OwnCloud)</li>
                   <li><i class="mdi-navigation-chevron-right"></i>Issue tracker (BugZilla)</li>
-                  <li><i class="mdi-navigation-chevron-right"></i>Central LDAP authentication (OpenLDAP, used for <a href="https://jonathanprice.org">JonathanPrice.org</a>, including OwnCloud, BugZilla, etc.)</li>
+                  <li><i class="mdi-navigation-chevron-right"></i>Central LDAP authentication (OpenLDAP, used for <a href="https://jonathanprice.org">JonathanPrice.org</a>, including OwnCloud, nginx, BugZilla, etc.)</li>
                 </ul>
               </p>
 
