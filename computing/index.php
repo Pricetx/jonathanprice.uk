@@ -21,7 +21,7 @@
                 One way in which I contribute is with the ports tree, which is the system
                 used by FreeBSD to obtain 3rd party software (roughly analogous to the package repos of various
                 Linux distros). If I have any issues with any software I use, I will either submit an issue, or
-                if I have the skills to resolve it, a patch. Two ports that I have contributed to are <a href="http://svnweb.freebsd.org/ports/head/www/owncloud/">www/owncloud</a>
+                if I have the skills to resolve it; submit a patch. Two ports that I have contributed to are <a href="http://svnweb.freebsd.org/ports/head/www/owncloud/">www/owncloud</a>
                 and <a href="http://svnweb.freebsd.org/ports/head/net/openldap24-server">net/openldap24-server</a>.
                 In addition to this, I am the maintainer for the following ports:
                 <ul class="light grey-text text-darken-4">
@@ -48,7 +48,7 @@
 
               <p class="light grey-text text-darken-4">
                 Networking is my primary area of expertise within the field of computing. I am currently working towards
-                earning a CCNA in july, and intend to begin work on a CCNP soon after. In university I intend to base my
+                earning a CCNA in July, and intend to begin work on a CCNP soon after. In university I intend to base my
                 final year project in networking.
               </p>
 
@@ -79,8 +79,8 @@
                 I also have some basic web development experience. For instance, this website has been built by me using the
                 <a href="http://materializecss.com/">Materialize</a> CSS framework. This site looks modern and clean, and is
                 able to dynamically resize to fit a variety of devices, including mobile platforms. I also utilise a templating
-                system I wrote in PHP so that I write the header and footer once, and it then replicated across all of my pages.
-                You can view the full PHP source for this website <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
+                system that I wrote in PHP so that I can write the header and footer once, and it then it can be replicated across all of my pages.
+                You can view the full PHP source code for this website <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
               </p>
             </div>
 
