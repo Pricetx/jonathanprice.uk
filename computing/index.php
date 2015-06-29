@@ -80,7 +80,7 @@
                 <a href="http://materializecss.com/">Materialize</a> CSS framework. This site looks modern and clean, and is
                 able to dynamically resize to fit a variety of devices, including mobile platforms. I also utilise a templating
                 system that I wrote in PHP so that I can write the header and footer once, and it then it can be replicated across all of my pages.
-                You can view the full PHP sourcecode for this website <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
+                You can view the full PHP source code for this website <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
               </p>
             </div>
 
