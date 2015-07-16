@@ -8,7 +8,7 @@
     <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css" media="screen,projection"/>
     <link type="text/css" rel="stylesheet" href="/css/style.css">
 
-    <script src="/js/master.js"></script>
+    <script async src="/js/master.js"></script>
 
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
@@ -70,7 +70,7 @@
                 </a>
               </li>
               <li id="computingLinkMob" class="blue-grey-text text-darken-4">
-                <a href="/computing" class="dropdown-button" data-activates="computingDropdownMob">
+                <a href="/computing" class="dropdown-button blue-grey-text text-darken-4" data-activates="computingDropdownMob">
                   <i class="tiny mdi-hardware-desktop-windows left blue-grey-text text-darken-4"></i>Computing
                 </a>
               </li>
