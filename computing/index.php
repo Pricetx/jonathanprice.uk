@@ -48,7 +48,7 @@
 
               <p class="light grey-text text-darken-4">
                 Networking is my primary area of expertise within the field of computing. I am currently working towards
-                earning a CCNA in july, and intend to begin work on a CCNP soon after. In university I intend to base my
+                earning a CCNA in July, and intend to begin work on a CCNP soon after. In university I intend to base my
                 final year project in networking.
               </p>
 
@@ -79,8 +79,8 @@
                 I also have some basic web development experience. For instance, this website has been built by me using the
                 <a href="http://materializecss.com/">Materialize</a> CSS framework. This site looks modern and clean, and is
                 able to dynamically resize to fit a variety of devices, including mobile platforms. I also utilise a templating
-                system I wrote in PHP so that I write the header and footer once, and it then replicated across all of my pages.
-                You can view the full PHP source for this website <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
+                system I have developed in PHP so that I write the header and footer once, and have it replicated across all of my pages.
+                You can view the source code for this website on my GitHub profile <a href="https://github.com/pricetx/jonathanprice.uk">here</a>.
               </p>
             </div>
 
