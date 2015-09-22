@@ -5,7 +5,8 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
     <title>Jonathan Price</title>
 
-    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css" media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css" media="screen"/>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="/css/style.css">
 
     <script async src="/js/master.js"></script>
@@ -38,16 +39,15 @@
               <li id="homeLink">
                 <a href="/" class="blue-grey-text text-darken-4">Home</a>
               </li>
+              <li id="computingLink">
+                <a href="/computing" class="blue-grey-text text-darken-4">Computing</a>
+              </li>
+              <li id="aviationLink">
+                <a href="/aviation" class="blue-grey-text text-darken-4">Aviation</a>
+              </li>
               <li id="musicLink">
                 <a href="/music" class="blue-grey-text text-darken-4">Music</a>
               </li>
-              <li id="computingLink">
-                <a href="/computing" class="dropdown-button blue-grey-text text-darken-4" data-activates="computingDropdown">Computing
-                  <i class="mdi-navigation-arrow-drop-down right"></i>
-                </a>
-              </li>
-              <li id="aboutLink">
-                <a href="/about" class="blue-grey-text text-darken-4">About Me</a>
               </li>
               <li id="contactLink">
                 <a href="/contact" class="blue-grey-text text-darken-4">Contact</a>
@@ -64,19 +64,14 @@
                   <i class="tiny mdi-action-home left blue-grey-text text-darken-4"></i>Home
                 </a>
               </li>
-              <li id="musicLinkMob" class="blue-grey-text text-darken-4">
-                <a href="/music">
-                  <i class="tiny mdi-av-volume-up left 1  blue-grey-text text-darken-4"></i>Music
-                </a>
-              </li>
               <li id="computingLinkMob" class="blue-grey-text text-darken-4">
-                <a href="/computing" class="dropdown-button blue-grey-text text-darken-4" data-activates="computingDropdownMob">
+                <a href="/computing">
                   <i class="tiny mdi-hardware-desktop-windows left blue-grey-text text-darken-4"></i>Computing
                 </a>
               </li>
-              <li id="aboutLinkMob" class="blue-grey-text text-darken-4">
-                <a href="/about">
-                  <i class="tiny mdi-social-person left blue-grey-text text-darken-4"></i>About Me
+              <li id="musicLinkMob" class="blue-grey-text text-darken-4">
+                <a href="/music">
+                  <i class="tiny mdi-av-volume-up left 1  blue-grey-text text-darken-4"></i>Music
                 </a>
               </li>
               <li id="contactLinkMob" class="blue-grey-text text-darken-4">
