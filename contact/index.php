@@ -7,7 +7,8 @@
             <div class="col s12 m8 l9">
               <h1 class="light grey-text text-darken-4 header">Contact</h1>
               <p class="light grey-text text-darken-4 intro-paragraph">
-                The best way to get in touch with me is by using the form below.
+                To contact me, you can either use the below form, or contact me via my
+                  <a href="https://uk.linkedin.com/in/jonathanpriceuk">LinkedIn</a> account.
               </p>
             </div>
 
@@ -31,11 +32,10 @@
                 <button class="btn waves-effect waves-light" type="submit" name="action">Submit<i class="mdi-content-send right"></i></button>
 
                 <p class="light grey-text text-darken-4">
-                  I endeavour to sign any personal correspondance with my PGP key. You can verify the legitimacy
-                  of my key by visiting my <a href="http://keybase.io/pricetx">KeyBase</a> profile. If you feel it
-                  necessary to send me sensitive information by email, please send me a preliminary email containing
-                  your public key, and then encrypt the following email with your private key and my public key.
-                  You may use any email address associated with my PGP key.
+                  I usually sign any emails with PGP. You can verify the legitimacy
+                  of my key by visiting my <a href="http://keybase.io/pricetx">KeyBase</a> profile. If you wish to
+		  send me email directly, including signing and/or encrypting them, please send the email to either
+                  of the addresses associated with my PGP key.
                 </p>
               </form>
 
