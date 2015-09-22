@@ -27,7 +27,8 @@
                 <ul class="light grey-text text-darken-4">
                   <li><i class="mdi-navigation-chevron-right"></i><a href="http://svnweb.freebsd.org/ports/head/security/d0_blind_id/">security/do_blind_id</a></li>
                   <li><i class="mdi-navigation-chevron-right"></i><a href="http://svnweb.freebsd.org/ports/head/games/minecraft-server/">games/minecraft-server</a></li>
-                </ul>
+                  <li><i class="mdi-navigation-chevron-right"></i><a href="http://svnweb.freebsd.org/ports/head/devel/rubygem-curses/">devel/rubygem-curses</a></li>
+		</ul>
               </p>
 
               <p class="light grey-text text-darken-4">
