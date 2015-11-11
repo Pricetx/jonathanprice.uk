@@ -6,9 +6,6 @@
           <div class="container">
             <h1 class="header center">Jonathan Price</h1>
             <div class="row center">
-              <img class="center responsive-img circle z-depth-2" src="/images/avatar.jpg" alt="Jonathan Price"/>
-            </div>
-            <div class="row center">
               <h5 class="header col s12 light">Computer Scientist, Pilot, Musician</h5>
             </div>
             <div class="row">
