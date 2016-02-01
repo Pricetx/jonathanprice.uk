@@ -48,9 +48,9 @@
               <h3 class="light grey-text text-darken-4 header">Networking</h2>
 
               <p class="light grey-text text-darken-4">
-                Networking is my primary area of expertise within the field of computing. I am currently working towards
-                earning a CCNA in July, and intend to begin work on a CCNP soon after. In university I intend to base my
-                final year project in networking.
+                Networking is my primary area of expertise within the field of computing. I am a CCNA (for proof, go to <a href="http://www.ciscocertificates.com/verify.cfm">http://www.ciscocertificates.com/verify.cfm</a>
+                and enter code: 422044170044GOYK).
+                In university I intend to base my final year project in networking.
               </p>
 
               <p class="light grey-text text-darken-4">
