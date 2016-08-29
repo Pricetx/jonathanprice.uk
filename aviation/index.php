@@ -27,6 +27,17 @@
               <img alt="Piper Warrior" src="/images/gcczv.jpg" height="" width="90%" style="margin: auto;display: block;">
               <figcaption style="text-align: center;">One of the Piper Warriors I currently train on at Elstree.</figcaption>
               <br/>
+
+              <p class="light grey-text text-darken-4">
+                I have created a youtube channel where I occasionally post footage from flying lessons recorded from a
+		head-mounted camera. Below is a link to the channel and an example video from it.
+              </p>
+
+              <a href="https://www.youtube.com/channel/UCHqG54azl-EoxWqCaPRANQQ">Click here to visit my youtube channel</a>
+              <br/><br/>
+
+              <iframe width="420" height="315" src="https://www.youtube.com/embed/dyMmOkMQCS4" frameborder="0" allowfullscreen style="margin: auto;display: block;"></iframe>
+              <br/>
             </div>
 
           </div>
