@@ -50,7 +50,6 @@
               <p class="light grey-text text-darken-4">
                 Networking is my primary area of expertise within the field of computing. I am a CCNA (for proof, go to <a href="http://www.ciscocertificates.com/verify.cfm">http://www.ciscocertificates.com/verify.cfm</a>
                 and enter code: 422044170044GOYK).
-                In university I intend to base my final year project in networking.
               </p>
 
               <p class="light grey-text text-darken-4">
